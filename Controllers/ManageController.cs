@@ -11,6 +11,8 @@ using studentMVC.Models;
 namespace studentMVC.Controllers
 {
     [Authorize]
+
+
     public class ManageController : Controller
     {
         private ApplicationSignInManager _signInManager;
