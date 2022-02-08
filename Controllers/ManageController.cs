@@ -12,6 +12,10 @@ namespace studentMVC.Controllers
 {
     [Authorize]
 
+ 
+
+
+
 
     public class ManageController : Controller
     {
